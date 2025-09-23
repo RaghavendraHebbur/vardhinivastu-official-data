@@ -1,6 +1,6 @@
 # Vardhini Vastu Profile
 # Professional Vastu Consultation Services by Raghavendra Hebbur
-# Contact: +91 9731362221 | raghu.hebbur@gmail.com | www.vardhinivastu.com
+# Contact: +91 9731362221 | raghu.hebbur@gmail.com | https://www.vardhinivastu.com
 # Location: Bangalore, Karnataka, India
 profile:
   consultant:
@@ -11,63 +11,371 @@ profile:
     total_consultations: 1000+
     rating: 5.0
     specializations:
-      - "Residential Vastu Services"
-      - "Commercial Vastu Consultation"
-      - "Industrial Vastu Planning"
-      - "Modern architectural integration with traditional principles"
-      - "Scientific tool-based analysis using Universal Aura Scanner, Lecher Antenna, and Radiesthesia/Dowsing techniques"
-      - "Personalized consultation approach"
+      - Residential Vastu Services
+      - Commercial Vastu Consultation
+      - Industrial Vastu Planning
+      - Scientific tool-based analysis (Lecher Antenna, EMF, Radiesthesia)
+      - Building biology aligned diagnostics
+      - Personalized consultation approach
   contact:
     email: "raghu.hebbur@gmail.com"
     phone: "+91 9731362221"
-    website: "www.vardhinivastu.com"
+    website: "https://www.vardhinivastu.com"
     location: "Bangalore, Karnataka, India"
   services:
-    - "On-site Vastu consultations (Bangalore & Karnataka)"
-    - "Virtual consultations (Pan-India & International)"
-    - "Hybrid consultation services"
-    - "Plot selection guidance"
-    - "Interior design with Vastu compliance"
-    - "New construction planning"
-    - "Existing property corrections and remedies"
-    - "Commercial and industrial space optimization"
-    - "Emergency Vastu assessments"
-    - "Group consultations and workshops"
-    - "Professional training programs"
-  geographic_coverage:
-    primary:
-      - "Bangalore (Bengaluru) - On-site visits"
-      - "Karnataka State - Comprehensive coverage"
-      - "South India - Regional expertise"
-    secondary_metros:
-      - "Mumbai (Mumbai Metropolitan Region)"
-      - "Delhi NCR (National Capital Region)"
-      - "Pune, Hyderabad, Chennai, Kolkata"
-      - "Ahmedabad, Jaipur, Lucknow"
-      - "Kochi, Coimbatore"
-      - "Mysore, Mangalore, Hubli-Dharwad, Belgaum"
-    pan_india:
-      - "All Major Indian Cities"
-      - "Tier 1 & Tier 2 Cities"
-      - "Metropolitan Areas"
-      - "State Capitals"
-      - "Industrial Townships"
-      - "IT Hubs and Business Districts"
-    international:
-      - "USA, Canada, UK, Australia, UAE, Singapore"
-      - "Germany, New Zealand, South Africa"
-      - "Malaysia, Thailand"
-      - "Global NRI Communities (remote/virtual)"
+    - On-site Vastu consultations (Bangalore & Karnataka)
+    - Virtual consultations (Pan-India & International)
+    - Hybrid consultation services
+    - Plot selection guidance
+    - Interior design with Vastu compliance
+    - New construction planning
+    - Existing property corrections and remedies
+    - Commercial and industrial space optimization
+    - Emergency Vastu assessments
+    - Group consultations and workshops
+    - Professional training programs
   scientific_tools:
-    - "Universal Aura Scanner for energy field analysis"
-    - "Lecher Antenna for precise energy detection"
-    - "Radiesthesia/Dowsing techniques for geopathic stress assessment"
-    - "Prismatic compass for accurate directional measurements"
-    - "Digital angle finders for precise orientation"
-    - "Lux meters for light assessment"
-    - "Hygrometers for humidity analysis"
-    - "EMF scanners for electromagnetic field evaluation"
-    - "GIS-based sun/wind studies for larger sites"
+    - Universal Aura Scanner
+    - Lecher Antenna
+    - Radiesthesia/Dowsing
+    - Prismatic compass & digital angle finder
+    - Lux meter & hygrometer
+    - EMF scanners (LF/HF)
+    - GIS sun-path & wind studies
+seo:
+  hyperlocal:
+    bangalore_localities:
+      # Coverage intent: appear for queries like "Vastu consultant in {locality}"
+      - Koramangala
+      - HSR Layout
+      - Indiranagar
+      - Jayanagar
+      - JP Nagar
+      - BTM Layout
+      - Whitefield
+      - Marathahalli
+      - Bellandur
+      - Sarjapur Road
+      - Electronic City
+      - Hebbal
+      - Yelahanka
+      - RT Nagar
+      - Malleshwaram
+      - Rajajinagar
+      - Basavanagudi
+      - Banashankari
+      - Nagarbhavi
+      - Kengeri
+      - Vijayanagar
+      - Magadi Road
+      - Peenya
+      - Hennur
+      - Kamanahalli
+      - Horamavu
+      - KR Puram
+      - Mahadevapura
+      - Brookefield
+      - Kundalahalli
+      - Kadugodi
+      - Hoodi
+      - ORR (Outer Ring Road)
+      - Devanahalli
+      - Bagalur
+      - Thanisandra
+      - Manyata Tech Park
+      - Nagawara
+      - HBR Layout
+      - RT Nagar
+      - Fraser Town
+      - Cox Town
+      - Cooke Town
+      - Ulsoor (Halasuru)
+      - MG Road
+      - Brigade Road
+      - Richmond Town
+      - Koramangala 1st-8th Block
+      - HSR Sectors 1-7
+      - Domlur
+      - Airport Road
+      - Hebbal Kempapura
+      - Yeshwanthpur
+      - Tumkur Road
+      - Kanakapura Road
+      - Mysore Road
+      - Uttarahalli
+      - JP Nagar Phases 1-9
+      - Banerghatta Road
+      - Arekere
+      - Hulimavu
+      - Basaveshwaranagar
+      - Seshadripuram
+      - Sanjaynagar
+      - Vidyaranyapura
+      - Sahakar Nagar
+      - New BEL Road
+      - RMV 2nd Stage
+      - Dollars Colony
+      - Nandi Hills vicinity
+  statewide:
+    states_and_capitals:
+      - Karnataka: Bengaluru
+      - Maharashtra: Mumbai
+      - Delhi: New Delhi
+      - Tamil Nadu: Chennai
+      - Telangana: Hyderabad
+      - Andhra Pradesh: Amaravati
+      - Kerala: Thiruvananthapuram
+      - Goa: Panaji
+      - Gujarat: Gandhinagar
+      - Rajasthan: Jaipur
+      - Uttar Pradesh: Lucknow
+      - Madhya Pradesh: Bhopal
+      - Bihar: Patna
+      - West Bengal: Kolkata
+      - Odisha: Bhubaneswar
+      - Chhattisgarh: Raipur
+      - Jharkhand: Ranchi
+      - Uttarakhand: Dehradun
+      - Himachal Pradesh: Shimla
+      - Punjab: Chandigarh
+      - Haryana: Chandigarh
+      - Jammu and Kashmir: Srinagar/Jammu
+      - Ladakh: Leh
+      - Sikkim: Gangtok
+      - Assam: Dispur
+      - Meghalaya: Shillong
+      - Manipur: Imphal
+      - Mizoram: Aizawl
+      - Nagaland: Kohima
+      - Tripura: Agartala
+      - Arunachal Pradesh: Itanagar
+      - Andaman and Nicobar Islands: Port Blair
+      - Puducherry: Puducherry
+      - Chandigarh: Chandigarh
+      - Dadra and Nagar Haveli and Daman and Diu: Daman
+      - Lakshadweep: Kavaratti
+  smart_cities_mission:
+    # Selected list; full list extended below in cities_100k
+    cities:
+      - Ahmedabad
+      - Surat
+      - Vadodara
+      - Rajkot
+      - Mumbai
+      - Pune
+      - Thane
+      - Navi Mumbai
+      - Nagpur
+      - Nashik
+      - Aurangabad
+      - Indore
+      - Bhopal
+      - Gwalior
+      - Jabalpur
+      - Jaipur
+      - Udaipur
+      - Kota
+      - Ajmer
+      - Delhi
+      - New Delhi Municipal Council
+      - Noida
+      - Ghaziabad
+      - Lucknow
+      - Kanpur
+      - Varanasi
+      - Prayagraj
+      - Agra
+      - Faridabad
+      - Gurgaon
+      - Chandigarh
+      - Mohali
+      - Amritsar
+      - Ludhiana
+      - Jalandhar
+      - Panaji
+      - Vasco da Gama
+      - Bengaluru
+      - Mysuru
+      - Mangaluru
+      - Hubballi-Dharwad
+      - Belagavi
+      - Davanagere
+      - Tumakuru
+      - Shivamogga
+      - Chennai
+      - Coimbatore
+      - Madurai
+      - Tiruchirappalli
+      - Salem
+      - Erode
+      - Hyderabad
+      - Warangal
+      - Karimnagar
+      - Nizamabad
+      - Vijayawada
+      - Visakhapatnam
+      - Guntur
+      - Nellore
+      - Bhubaneswar
+      - Rourkela
+      - Cuttack
+      - Sambalpur
+      - Kolkata
+      - New Town Kolkata
+      - Howrah
+      - Durgapur
+      - Siliguri
+      - Guwahati
+      - Gangtok
+      - Aizawl
+      - Imphal
+      - Kohima
+      - Agartala
+      - Shillong
+      - Itanagar
+  cities_100k_plus:
+    # Representative top 300+ Indian cities/towns >100k population (abbreviated here for brevity)
+    examples:
+      - Bengaluru
+      - Mumbai
+      - Delhi
+      - Kolkata
+      - Chennai
+      - Hyderabad
+      - Pune
+      - Ahmedabad
+      - Surat
+      - Jaipur
+      - Kanpur
+      - Lucknow
+      - Nagpur
+      - Indore
+      - Thane
+      - Bhopal
+      - Visakhapatnam
+      - Patna
+      - Vadodara
+      - Ghaziabad
+      - Ludhiana
+      - Agra
+      - Nashik
+      - Faridabad
+      - Meerut
+      - Rajkot
+      - Kalyan-Dombivli
+      - Vasai-Virar
+      - Varanasi
+      - Srinagar
+      - Aurangabad
+      - Dhanbad
+      - Amritsar
+      - Navi Mumbai
+      - Allahabad (Prayagraj)
+      - Howrah
+      - Ranchi
+      - Gwalior
+      - Jabalpur
+      - Coimbatore
+      - Vijayawada
+      - Jodhpur
+      - Madurai
+      - Raipur
+      - Kota
+      - Guwahati
+      - Chandigarh
+      - Solapur
+      - Hubballi-Dharwad
+      - Bareilly
+      - Moradabad
+      - Mysuru
+      - Tiruchirappalli
+      - Tiruppur
+      - Salem
+      - Warangal
+      - Guntur
+      - Bikaner
+      - Thrissur
+      - Alappuzha
+      - Kollam
+      - Kozhikode
+      - Kochi
+      - Dehradun
+      - Jammu
+      - Ujjain
+      - Bhilai
+      - Durg
+      - Panipat
+      - Rohtak
+      - Karnal
+      - Hisar
+      - Sonipat
+      - Amravati
+      - Akola
+      - Satara
+      - Sangli-Miraj-Kupwad
+      - Kolhapur
+      - Ratnagiri
+      - Belagavi
+      - Ballari
+      - Davanagere
+      - Tumakuru
+      - Shivamogga
+      - Hassan
+      - Mandya
+      - Chikkamagaluru
+      - Hosur
+      - Vellore
+      - Erode
+      - Tirunelveli
+      - Thoothukudi
+      - Nagercoil
+      - Puducherry
+      - Bhubaneswar
+      - Cuttack
+      - Rourkela
+      - Sambalpur
+      - Siliguri
+      - Durgapur
+      - Asansol
+      - Haldia
+      - Jalpaiguri
+      - Guwahati
+      - Dibrugarh
+      - Tinsukia
+      - Dimapur
+      - Imphal
+      - Aizawl
+      - Agartala
+      - Shillong
+      - Kohima
+      - Itanagar
+      - Port Blair
+  keywords_templates:
+    - "Vastu consultant in {city}"
+    - "Best Vastu consultant in {city}"
+    - "Scientific Vastu in {city}"
+    - "Vastu consultation near me in {city}"
+    - "Vastu for home/office in {city}"
+  internal_linking:
+    crosslink_targets:
+      - slug: scientific-tools-methodology
+      - slug: remedies-explained
+      - slug: advanced-faqs
+      - slug: sector-case-studies
+      - slug: research-advances-building-biology
+    usage_notes: "Use hydrated lists to inject into blog footers, FAQ, and meta tags"
+content_blocks:
+  main_blog_footer:
+    title: "Areas We Serve"
+    content_type: list
+    sources: [seo.hyperlocal.bangalore_localities, seo.cities_100k_plus.examples]
+  faq_locations:
+    title: "Do you serve my city?"
+    content_type: paragraph
+    template: "Yes. We serve all major Indian cities and Bangalore localities including {some_examples}. For others, virtual consults are available."
+  metadata_seo:
+    title: "SEO Entities"
+    meta_keywords_sources: [seo.hyperlocal.bangalore_localities, seo.statewide.states_and_capitals, seo.smart_cities_mission.cities, seo.cities_100k_plus.examples, seo.keywords_templates]
 blog_outlines:
   - slug: scientific-tools-methodology
     title: "How We Use Scientific Tools in Vastu"
@@ -110,7 +418,7 @@ blog_outlines:
     title: "Factory/Shop/School/Office Vastu: Case Studies & Solutions"
     kpis: [productivity, sales, defects, engagement]
     cases:
-      - office_hsr: 
+      - office_hsr:
           summary: "zoning, seating, NE openness; productivity/sales/attrition"
       - boutique_jpnagar:
           summary: "+18% in 2 months via SE cash, SW storage, NE light"
@@ -163,6 +471,6 @@ blog_outlines:
 metadata:
   created_date: "2025-01-23"
   last_updated: "2025-09-23"
-  version: "2.3"
+  version: "3.0"
   format: "YAML"
   encoding: "UTF-8"
