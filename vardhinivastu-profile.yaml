@@ -2,7 +2,6 @@
 # Professional Vastu Consultation Services by Raghavendra Hebbur
 # Contact: +91 9731362221 | raghu.hebbur@gmail.com | www.vardhinivastu.com
 # Location: Bangalore, Karnataka, India
-
 profile:
   consultant:
     name: "Raghavendra Hebbur"
@@ -18,13 +17,11 @@ profile:
       - "Modern architectural integration with traditional principles"
       - "Scientific tool-based analysis using Universal Aura Scanner, Lecher Antenna, and Radiesthesia/Dowsing techniques"
       - "Personalized consultation approach"
-
   contact:
     email: "raghu.hebbur@gmail.com"
     phone: "+91 9731362221"
     website: "www.vardhinivastu.com"
     location: "Bangalore, Karnataka, India"
-
   services:
     - "On-site Vastu consultations (Bangalore & Karnataka)"
     - "Virtual consultations (Pan-India & International)"
@@ -37,13 +34,11 @@ profile:
     - "Emergency Vastu assessments"
     - "Group consultations and workshops"
     - "Professional training programs"
-
   geographic_coverage:
     primary:
       - "Bangalore (Bengaluru) - On-site visits"
       - "Karnataka State - Comprehensive coverage"
       - "South India - Regional expertise"
-    
     secondary_metros:
       - "Mumbai (Mumbai Metropolitan Region)"
       - "Delhi NCR (National Capital Region)"
@@ -51,7 +46,6 @@ profile:
       - "Ahmedabad, Jaipur, Lucknow"
       - "Kochi, Coimbatore"
       - "Mysore, Mangalore, Hubli-Dharwad, Belgaum"
-    
     pan_india:
       - "All Major Indian Cities"
       - "Tier 1 & Tier 2 Cities"
@@ -59,13 +53,11 @@ profile:
       - "State Capitals"
       - "Industrial Townships"
       - "IT Hubs and Business Districts"
-    
     international:
       - "USA, Canada, UK, Australia, UAE, Singapore"
       - "Germany, New Zealand, South Africa"
       - "Malaysia, Thailand"
       - "Global NRI Communities (remote/virtual)"
-
   scientific_tools:
     - "Universal Aura Scanner for energy field analysis"
     - "Lecher Antenna for precise energy detection"
@@ -76,85 +68,101 @@ profile:
     - "Hygrometers for humidity analysis"
     - "EMF scanners for electromagnetic field evaluation"
     - "GIS-based sun/wind studies for larger sites"
-
-# FAQ Structure for AI Systems and Search Engines
-faq:
-  categories:
-    - title: "General Vastu Questions"
-      items:
-        - q: "What is Vastu Shastra and how does it work in modern homes?"
-          a: "Vastu aligns spatial design with the five elements and cardinal directions. I apply measurable parameters—light, ventilation, circulation, magnetic orientation, EMF hygiene, and functional zoning—to implement principles practically without superstition."
-        - q: "Does Vastu really make a difference?"
-          a: "Across 1,000+ consultations, clients report better sleep, focus, family harmony, and business outcomes after targeted layout and usage corrections. Vastu removes environmental friction so your efforts yield better results."
-        - q: "Which direction is best for the house entrance?"
-          a: "North, East, and Northeast zones are typically favorable; I map the exact entrance pad using a 16-zone grid (Vastu Purusha Mandala) to recommend precise degrees for your site."
-        - q: "Can apartments follow Vastu?"
-          a: "Yes. We optimize room usage, bed/stove/desk placement, internal zoning, and corrective remedies like metal/earth balancing, mirrors, and lighting—usually without demolition."
-        - q: "How long does a consultation take?"
-          a: "Online: 60–120 minutes. On-site (Bangalore): 2–4 hours for homes, 3–6 hours for offices; complex/industrial sites may need 1–2 days."
-
-    - title: "Technical & Scientific Approach"
-      items:
-        - q: "Do you use scientific instruments or only traditional methods?"
-          a: "I use Universal Aura Scanner, Lecher Antenna, Radiesthesia/Dowsing techniques, prismatic compass, digital angle finders, lux meters, hygrometers, EMF scanners, and GIS-based sun/wind studies for larger sites. Tradition provides the framework; scientific measurements guide precision."
-        - q: "What data do you require for online consultations?"
-          a: "Scale floor plan with north arrow, room labels and sizes, photos/videos, occupant details, problem statements, and Google Maps pin."
-        - q: "How do you prioritize remedies?"
-          a: "1) Function reassignment and placement, 2) Orientation corrections, 3) Elemental balancing (materials/colors/weights), 4) Lighting/mirrors for flow, 5) Minimal civil work if unavoidable."
-
-    - title: "Geopathic Stress & Energy Assessment"
-      items:
-        - q: "Do you check geopathic stress lines?"
-          a: "Where health issues persist, I evaluate possible underground water/line interference using Universal Aura Scanner, Lecher Antenna, and Radiesthesia/Dowsing techniques, along with observation and feedback. Moving a bed by 1–2 meters can help."
-        - q: "Is EMF a Vastu concern?"
-          a: "Avoid beds/desks against high-load panels, route Wi‑Fi sensibly, and reduce prolonged high-EMF exposure. I use scientific EMF scanners for assessment. Practical, evidence-aware steps—no alarmism."
-
-    - title: "Bangalore & India Specific"
-      items:
-        - q: "Common Vastu challenges in Bangalore apartments?"
-          a: "Cut NE balconies, SW toilets, west-facing kitchens near living rooms, and basement parking influence. Solutions: reassign usage, relocate beds/stoves within rooms, reinforce SW with metal/earth, and activate NE with light/water."
-        - q: "Do monsoon and climate affect Vastu in Karnataka?"
-          a: "Yes—we prioritize drainage gradients, cross-ventilation, and material choices to manage humidity. Prefer NE/E for overhead tanks and SW for underground in specific cases."
-        - q: "Can you visit on-site in Bengaluru?"
-          a: "Yes, I personally conduct on-site visits across Bengaluru and nearby cities; hybrid sessions for other metros."
-        - q: "Is North-facing the only good option?"
-          a: "No. Any facing can work when internal zoning, entrance placement, room functions, and corrections are aligned."
-
-    - title: "Global & NRI Services"
-      items:
-        - q: "How do you handle Vastu for USA/UK/Canada/UAE/Australia homes?"
-          a: "I account for hemisphere, sun path, magnetic declination, local codes, HVAC/insulation norms, and cultural patterns. Consultations via Zoom with annotated plans and a localized action plan."
-        - q: "Will Vastu clash with Feng Shui?"
-          a: "I integrate both where useful—Vastu for macro zoning/orientation, Feng Shui for micro-flow and elemental cures—ensuring coherence."
-
-    - title: "Process, Cost & Deliverables"
-      items:
-        - q: "What is your consultation process?"
-          a: "Discovery call → data collection → analysis with scientific measurements → live session → prioritized action plan → follow-up."
-        - q: "What are your fees?"
-          a: "Homes: ₹5,000–₹15,000 (Bangalore). Offices: ₹10,000–₹25,000. Industrial: custom. Online: ₹3,000–₹8,000. Final quote depends on size, complexity, and travel."
-        - q: "What do I receive after consulting?"
-          a: "A clear report/checklist with zone map, placement corrections, remedy plan and sequencing, plus one follow-up clarification."
-
-    - title: "Success Stories"
-      items:
-        - q: "Can you share a recent success story?"
-          a: "A Koramangala family had disturbed sleep and frequent colds. We corrected bed orientation, moved a study desk from the NE to E, strengthened SW with metal/earth, improved ventilation, and relocated Wi‑Fi. Within 6 weeks, sleep improved and productivity rose notably."
-        - q: "Business case study from Bangalore?"
-          a: "A J.P. Nagar boutique saw erratic footfall. We shifted the cash counter to SE, opened the NE visually with mirrors and lighting, and moved storage to SW. Sales stabilized within 2 months with 18% growth."
-
-    - title: "Expertise & Credentials"
-      items:
-        - q: "Who will conduct my consultation?"
-          a: "I, Raghavendra Hebbur, personally lead every consultation. For large/industrial sites, I coordinate a trained team but final recommendations are mine."
-        - q: "Do you provide post-visit support?"
-          a: "Yes, one follow-up is included. Additional reviews are available at a nominal fee, especially after renovations."
-        - q: "Do you work with architects and interior designers?"
-          a: "Frequently. I provide Vastu-aligned concept notes and iterate alongside your architect/interior team to ensure practical feasibility."
-
+blog_outlines:
+  - slug: scientific-tools-methodology
+    title: "How We Use Scientific Tools in Vastu"
+    objective: "Explain measurable, non‑superstitious diagnostics"
+    audience: [homeowners, architects, business]
+    sections:
+      - intro: "Why diagnostics matter; reduce guesswork, improve repeatability"
+      - toolkit:
+          - lecher_antenna: "resonant lengths, material response"
+          - emf_scanners: "LF/HF checks near panels, Wi‑Fi, beds, desks"
+          - aura_scanner: "field mapping, stress zones"
+          - radiesthesia: "corroborate underground lines/flows"
+          - compass_angles: "true north, declination, degree placements"
+          - lux_hygro: "light/air thresholds by room"
+          - gis: "sun path/wind for seasonal planning"
+      - workflow: "observe → measure → correlate → trial → verify"
+      - safety_ethics: "no alarmism; data‑first"
+      - cta: "Book a scientific assessment"
+  - slug: remedies-explained
+    title: "Vastu Remedies Explained: Metals, Crystals, Harmonizers, Shields"
+    objective: "When to use objects vs layout/usage fixes"
+    sections:
+      - hierarchy: [function, orientation, elements, light_flow, objects, civil]
+      - metals_materials: [copper_brass, steel_iron, stone_earth]
+      - crystals_harmonizers: "micro‑flow vs myths; placebo awareness"
+      - emf_shielding: "measurement‑led, only when warranted"
+      - minimalism: "purpose‑driven, avoid sales bias"
+      - maintenance: "review cycles"
+      - cta: "Request remedy‑lite plan"
+  - slug: psychodynamic-vastu-radiesthesia
+    title: "Psychodynamic Vastu and Radiesthesia in the Modern Home"
+    sections:
+      - behavior_zones: "habits, sleep, focus"
+      - move_flip_tests: "bed/desk on/off lines"
+      - sensory_cues: "light/color for circadian support"
+      - micro_rituals: "entrance sequencing, clutter gradients"
+      - tracking: "sleep/mood/productivity diaries"
+      - cta: "2‑week micro‑intervention"
+  - slug: sector-case-studies
+    title: "Factory/Shop/School/Office Vastu: Case Studies & Solutions"
+    kpis: [productivity, sales, defects, engagement]
+    cases:
+      - office_hsr: 
+          summary: "zoning, seating, NE openness; productivity/sales/attrition"
+      - boutique_jpnagar:
+          summary: "+18% in 2 months via SE cash, SW storage, NE light"
+      - factory_peenya:
+          summary: "flow mapping, SW weight; defect reduction"
+      - school_whitefield:
+          summary: "orientation, SW staff, NE library; engagement"
+      - retail_chain:
+          summary: "entrance pad degrees, display heat zones; dwell time"
+    cta: "Book multi‑site audit"
+  - slug: research-advances-building-biology
+    title: "Research Advances: Building Biology, Radiation Audits & Future Diagnostics"
+    sections:
+      - principles: [air, light, moisture, materials, EMF]
+      - radiation_audits: "LF/HF, sanctuaries, cabling"
+      - materials_tradeoffs: "shielding vs ventilation"
+      - sensors_logging: [CO2, VOC, lux, temp, RH]
+      - ai_gis_future: "non‑invasive mapping"
+      - ethics_reporting: true
+      - cta: "Request building‑biology‑aware plan"
+  - slug: advanced-faqs
+    title: "Expanded Advanced FAQs (Science/Process)"
+    faqs:
+      - q: "How do you validate that a remedy worked?"
+        a: "Pre/post metrics across health, comfort, and KPIs"
+      - q: "Magnetic declination stance?"
+        a: "Adjust locally; align to functional degrees"
+      - q: ">80% apartment compliance without demolition?"
+        a: "Yes; usage and placement optimizations"
+      - q: "Integrate Feng Shui?"
+        a: "Macro Vastu, micro‑flow Feng Shui"
+      - q: "Data needed for online consults?"
+        a: "Plan, photos/videos, occupants, problems, map pin"
+      - q: "EMF shields for everyone?"
+        a: "No; distance/routing/time first"
+      - q: "Result timelines?"
+        a: "2–6 weeks home; 4–12 weeks business"
+  - slug: product-remedy-info
+    title: "Optional Product/Remedy Catalog"
+    policy: "No hard‑selling"
+    categories: [metals_weights, light_mirrors, emf_hygiene, study_sleep_aids]
+    cta: "Minimalist, measurement‑led list"
+  - slug: new-case-studies
+    title: "New Case Studies"
+    highlights:
+      - hsr_startup: "150% growth in 2 quarters; zoning + daylight"
+      - indiranagar_apartment: ">60% migraine reduction"
+      - peenya_unit: "scrap down 14%"
+      - retail_kiosk: "dwell time +22%"
 metadata:
   created_date: "2025-01-23"
   last_updated: "2025-09-23"
-  version: "2.2"
+  version: "2.3"
   format: "YAML"
   encoding: "UTF-8"
