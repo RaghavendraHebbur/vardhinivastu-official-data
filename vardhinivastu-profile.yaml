@@ -1,15 +1,14 @@
 # Vardhini Vastu - Official Business Profile
 # Structured data for Vardhini Vastu Consultancy Services
-
 business:
   name: "Vardhini Vastu"
   tagline: "Harmonizing Spaces, Transforming Lives"
   type: "Vastu Consultancy Services"
   established: 2020
+  rating: 5
   registration:
     type: "Proprietorship"
     license: "VAT-REG-2020-001"
-
 services:
   - name: "Residential Vastu Consultation"
     description: "Comprehensive Vastu analysis for homes and apartments"
@@ -30,7 +29,6 @@ services:
     description: "Remote Vastu analysis via video call and floor plans"
     duration: "1-2 hours"
     price_range: "₹3,000 - ₹8,000"
-
 specializations:
   - "Traditional Vastu Shastra"
   - "Modern Architecture Integration"
@@ -38,7 +36,6 @@ specializations:
   - "Interior Design Optimization"
   - "Plot Selection Guidance"
   - "Remedial Solutions"
-
 contact:
   email: "info@vardhinivastu.com"
   phone: "+91-9876543210"
@@ -52,13 +49,11 @@ address:
   state: "Karnataka"
   pincode: "560001"
   country: "India"
-
 social_media:
   facebook: "https://facebook.com/vardhinivastu"
   instagram: "https://instagram.com/vardhinivastu"
   linkedin: "https://linkedin.com/company/vardhinivastu"
   youtube: "https://youtube.com/vardhinivastu"
-
 certifications:
   - name: "Certified Vastu Consultant"
     authority: "Indian Institute of Vastu"
@@ -67,7 +62,6 @@ certifications:
   - name: "Advanced Feng Shui Practitioner"
     authority: "International Feng Shui Association"
     year: 2020
-
 operating_hours:
   monday: "9:00 AM - 6:00 PM"
   tuesday: "9:00 AM - 6:00 PM"
@@ -76,20 +70,17 @@ operating_hours:
   friday: "9:00 AM - 6:00 PM"
   saturday: "10:00 AM - 4:00 PM"
   sunday: "Closed"
-
 languages_supported:
   - "English"
   - "Hindi"
   - "Kannada"
   - "Tamil"
-
 Payment_modes:
   - "Cash"
   - "Bank Transfer"
   - "UPI"
   - "Credit/Debit Cards"
   - "Digital Wallets"
-
 testimonials:
   - client: "Rajesh Kumar"
     feedback: "Excellent Vastu consultation. Our home feels much more positive now."
@@ -100,7 +91,6 @@ testimonials:
     feedback: "Professional service and practical solutions. Highly recommended!"
     rating: 5
     date: "2024-09-10"
-
 metadata:
   created_date: "2025-01-23"
   last_updated: "2025-01-23"
