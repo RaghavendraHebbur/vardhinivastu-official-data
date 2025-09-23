@@ -44,8 +44,8 @@
 
 ## Contact Information
 
-📧 **Email**: info@vardhinivastu.com
-📞 **Phone**: +91 [Contact Number]
+📧 **Email**: raghu.hebbur@gmail.com
+📞 **Phone**: +91 9731362221
 🌐 **Website**: [www.vardhinivastu.com]
 📍 **Location**: [City, State, India]
 
