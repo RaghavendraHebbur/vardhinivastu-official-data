@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://www.vardhinivastu.com/remedies-faq",
+  "name": "Vastu Remedies FAQ - Non-Demolition Solutions",
+  "mainEntity": [
+    {"@type": "Question", "name": "What are Vastu remedies without demolition?", "acceptedAnswer": {"@type": "Answer", "text": "Non-demolition Vastu remedies are scientifically-backed solutions that correct Vastu doshas without structural changes. Proven effective in 100+ Bangalore homes within 2-6 weeks."}},
+    {"@type": "Question", "name": "Can Vastu remedies help with health and sleep issues?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Proper Vastu alignment significantly impacts health and sleep quality. Many clients report improved sleep quality and energy levels within 4-8 weeks."}},
+    {"@type": "Question", "name": "How do I validate that a Vastu remedy worked?", "acceptedAnswer": {"@type": "Answer", "text": "Validation involves tracking health markers, comfort changes, business metrics, and financial improvements across 4-6 weeks. Most clients see measurable improvements within this timeframe."}},
+    {"@type": "Question", "name": "Is Vastu effective for apartment living?", "acceptedAnswer": {"@type": "Answer", "text": "Absolutely. For apartments: >80% compliance without demolition is achievable. We've achieved 150% growth and 14% migraine reduction in apartment clients."}},
+    {"@type": "Question", "name": "What Vastu remedies work best for business growth?", "acceptedAnswer": {"@type": "Answer", "text": "Proven remedies include entrance optimization, desk positioning, and strategic placement. Non-demolition solutions have generated: retail kiosks achieving 22% dwell time increase and startups with 150% growth in 2 quarters."}},
+    {"@type": "Question", "name": "How long before I see results from Vastu remedies?", "acceptedAnswer": {"@type": "Answer", "text": "Timeline: health/sleep improvements (2-4 weeks), business results (4-8 weeks), relationship enhancement (6-12 weeks), major life changes (3-6 months). Initial improvements within 2 weeks."}}
+  ]
+}
