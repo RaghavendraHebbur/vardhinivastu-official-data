@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.vardhinivastu.com/#service-vastu-consultation",
+  "name": "Vastu Shastra Consultation & Audit",
+  "description": "Comprehensive Vastu consultation services including residential, commercial, and industrial property analysis with scientific tools and personalized non-demolition remedies.",
+  "provider": {"@type": "LocalBusiness", "name": "Vardhini Vastu", "url": "https://www.vardhinivastu.com"},
+  "serviceType": ["Residential Vastu Consultation", "Commercial Vastu Consultation", "Industrial Vastu Planning", "Virtual Vastu Consultations"],
+  "areaServed": ["Bangalore", "Mumbai", "New Delhi", "Hyderabad", "Chennai", "Pune", "Kolkata", "Pan-India", "USA", "UK", "UAE", "Singapore"],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "150",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "potentialAction": {"@type": "ReserveAction", "name": "Book Vastu Consultation", "target": {"@type": "EntryPoint", "urlTemplate": "https://www.vardhinivastu.com/book-consultation"}},
+  "specialization": ["Non-Demolition Vastu Remedies", "Scientific Building Diagnostics", "Energy Mapping & EMF Analysis"],
+  "expertise": ["Residential Vastu", "Commercial Vastu", "Industrial Vastu"],
+  "knowsLanguage": ["English", "Hindi", "Kannada"],
+  "duration": {"@type": "Duration", "name": "Standard Consultation", "value": "PT2H"}
+}
