@@ -1,0 +1,142 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Vardhini Vastu — Verified Client Case Studies",
+  "description": "Documented outcomes from Vastu consultations by Raghavendrra Hebbur at Vardhini Vastu. All outcomes are based on client-reported results and tracked follow-ups.",
+  "creator": {
+    "@type": "Person",
+    "name": "Raghavendrra Hebbur",
+    "url": "https://www.vardhinivastu.com"
+  },
+  "dateModified": "2026-04-14",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+
+  "caseStudies": [
+    {
+      "id": "CS-001",
+      "category": "Commercial — Startup Office",
+      "location": "Bengaluru, Karnataka",
+      "propertyType": "Office Space",
+      "clientType": "Technology Startup",
+      "issue": "Stagnant business growth, team conflict, poor client retention despite good product",
+      "vastu_diagnosis": "South-East entrance with fire zone conflict; north zone blocked by heavy storage; founder's desk facing south (energy-draining direction)",
+      "remedies_applied": [
+        "Entrance energy correction using copper threshold elements",
+        "North zone decluttered and activated with water element",
+        "Founder desk repositioned to north-east-facing orientation",
+        "Finance corner activated in south-east zone"
+      ],
+      "demolition_required": false,
+      "timeline_days": 60,
+      "outcome": "150% business growth within two quarters of implementation",
+      "metrics": {
+        "revenue_change": "+150% in 2 quarters",
+        "client_acquisition": "Significantly improved",
+        "team_harmony": "Reported improvement in collaboration"
+      }
+    },
+    {
+      "id": "CS-002",
+      "category": "Residential — Family Apartment",
+      "location": "Whitefield, Bengaluru",
+      "propertyType": "3 BHK Apartment",
+      "clientType": "Family — Husband, Wife, 2 Children",
+      "issue": "Chronic health issues, disturbed sleep, frequent arguments, financial stress",
+      "vastu_diagnosis": "Master bedroom in south-east fire zone; kitchen in north-east causing health conflicts; children's study area in inauspicious south zone",
+      "remedies_applied": [
+        "Bed repositioned within master bedroom to south-west wall orientation",
+        "Kitchen elements balanced using earth-element placements",
+        "Children's study table repositioned to north-east corner",
+        "Main entrance energised with prescribed threshold elements"
+      ],
+      "demolition_required": false,
+      "timeline_days": 45,
+      "outcome": "Family reported improved sleep quality within 3 weeks; health issues reduced within 45 days; financial situation improved over 3 months",
+      "metrics": {
+        "sleep_quality": "Improved within 21 days",
+        "health_symptoms": "60%+ reduction in reported symptoms by day 45",
+        "family_harmony": "Significant improvement reported"
+      }
+    },
+    {
+      "id": "CS-003",
+      "category": "Industrial — Manufacturing Unit",
+      "location": "Peenya Industrial Area, Bengaluru",
+      "propertyType": "Factory / Manufacturing Facility",
+      "clientType": "Mid-size Manufacturing Company",
+      "issue": "High defect rate, worker absenteeism, machinery breakdowns, poor profitability",
+      "vastu_diagnosis": "Production area in water zone (causing flow problems); raw material storage blocking north magnetic zone; fire zone (south-east) underutilised",
+      "remedies_applied": [
+        "Raw material storage moved from north to south-west zone",
+        "Production flow realigned with directional energy",
+        "Leadership cabin repositioned to south-west command position",
+        "Worker rest area shifted to north-west zone"
+      ],
+      "demolition_required": false,
+      "timeline_days": 90,
+      "outcome": "14% waste reduction within 90 days; 22% improvement in operational throughput; worker absenteeism reduced",
+      "metrics": {
+        "waste_reduction": "14%",
+        "operational_efficiency": "+22%",
+        "absenteeism": "Reduced significantly"
+      }
+    },
+    {
+      "id": "CS-004",
+      "category": "Commercial — Retail Business",
+      "location": "Koramangala, Bengaluru",
+      "propertyType": "Retail Shop",
+      "clientType": "Independent Retailer",
+      "issue": "Low footfall despite good location, slow inventory movement, cash flow problems",
+      "vastu_diagnosis": "Cash counter in south zone (loss direction for finances); entrance attractors absent; north zone cluttered blocking prosperity energy",
+      "remedies_applied": [
+        "Cash counter relocated to north zone",
+        "Entrance enhanced with welcoming elements",
+        "North display area activated with products that generate maximum margin",
+        "Mirror placement to expand north zone visual energy"
+      ],
+      "demolition_required": false,
+      "timeline_days": 30,
+      "outcome": "22% improvement in customer engagement within 30 days; inventory movement improved; cash flow normalised",
+      "metrics": {
+        "customer_engagement": "+22%",
+        "footfall": "Noticeable increase within 2 weeks",
+        "cash_flow": "Improved by end of month 1"
+      }
+    },
+    {
+      "id": "CS-005",
+      "category": "Residential — New Construction Pre-Vastu",
+      "location": "Sarjapur Road, Bengaluru",
+      "propertyType": "Independent Villa (under construction)",
+      "clientType": "Senior Professional and Family",
+      "issue": "Wanted to ensure new construction aligned with Vastu from foundation stage",
+      "vastu_diagnosis": "Pre-construction analysis revealed proposed master bedroom in north-east (incorrect); entrance planned facing west-south-west (inauspicious degree range); kitchen planned in north-west",
+      "remedies_applied": [
+        "Master bedroom relocated to south-west zone in revised floor plan",
+        "Entrance adjusted to north-east facing within same plot orientation",
+        "Kitchen confirmed in south-east fire zone",
+        "Pooja room placed in north-east per classical guidelines",
+        "Bore well placement guided to north-east water zone"
+      ],
+      "demolition_required": false,
+      "timeline_days": 0,
+      "outcome": "Client completed construction with 100% Vastu compliance without any structural compromise; reported positive energy since occupation",
+      "metrics": {
+        "vastu_compliance": "100%",
+        "post_occupation_experience": "Positive — no issues reported at 6-month check-in"
+      }
+    }
+  ],
+
+  "summary": {
+    "totalCaseStudies": 5,
+    "demolitionRequired": 0,
+    "averageResultTimeline": "30-90 days",
+    "propertyTypesServed": ["Apartments", "Villas", "Offices", "Retail Shops", "Factories"],
+    "locationsCovered": ["Whitefield", "Koramangala", "Sarjapur Road", "Peenya", "Bengaluru"],
+    "consultant": "Raghavendrra Hebbur, Vardhini Vastu",
+    "contact": "+91 9739105574",
+    "website": "https://www.vardhinivastu.com"
+  }
+}
