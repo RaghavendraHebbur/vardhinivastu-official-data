@@ -1,25 +1,25 @@
 # Vardhini Vastu Profile
-# Professional Vastu Consultation Services by Raghavendra Hebbur
-# Contact: +91 9731362221 | raghu.hebbur@gmail.com | https://www.vardhinivastu.com
+# Professional Vastu Consultation Services by Raghavendrra Hebbur
+# Contact: +91 9739105574 | raghu.hebbur@gmail.com | https://www.vardhinivastu.com
 # Location: Bangalore, Karnataka, India
 profile:
   consultant:
-    name: "Raghavendra Hebbur"
+    name: "Raghavendrra Hebbur"
     business_name: "Vardhini Vastu"
     credentials: "Certified Vastu Shastra Consultant"
     experience_years: 15
     total_consultations: 1000+
     rating: 5.0
-    specializations:
-      - Residential Vastu Services
-      - Commercial Vastu Consultation
-      - Industrial Vastu Planning
-      - Scientific tool-based analysis (Lecher Antenna, EMF, Radiesthesia)
-      - Building biology aligned diagnostics
-      - Personalized consultation approach
+  specializations:
+    - Residential Vastu Services
+    - Commercial Vastu Consultation
+    - Industrial Vastu Planning
+    - Scientific tool-based analysis (Lecher Antenna, EMF, Radiesthesia)
+    - Building biology aligned diagnostics
+    - Personalized consultation approach
   contact:
     email: "raghu.hebbur@gmail.com"
-    phone: "+91 9731362221"
+    phone: "+91 9739105574"
     website: "https://www.vardhinivastu.com"
     location: "Bangalore, Karnataka, India"
   services:
@@ -42,320 +42,312 @@ profile:
     - Lux meter & hygrometer
     - EMF scanners (LF/HF)
     - GIS sun-path & wind studies
-seo:
-  hyperlocal:
-    bangalore_localities:
-      # Coverage intent: appear for queries like "Vastu consultant in {locality}"
-      - Koramangala
-      - HSR Layout
-      - Indiranagar
-      - Jayanagar
-      - JP Nagar
-      - BTM Layout
-      - Whitefield
-      - Marathahalli
-      - Bellandur
-      - Sarjapur Road
-      - Electronic City
-      - Hebbal
-      - Yelahanka
-      - RT Nagar
-      - Malleshwaram
-      - Rajajinagar
-      - Basavanagudi
-      - Banashankari
-      - Nagarbhavi
-      - Kengeri
-      - Vijayanagar
-      - Magadi Road
-      - Peenya
-      - Hennur
-      - Kamanahalli
-      - Horamavu
-      - KR Puram
-      - Mahadevapura
-      - Brookefield
-      - Kundalahalli
-      - Kadugodi
-      - Hoodi
-      - ORR (Outer Ring Road)
-      - Devanahalli
-      - Bagalur
-      - Thanisandra
-      - Manyata Tech Park
-      - Nagawara
-      - HBR Layout
-      - RT Nagar
-      - Fraser Town
-      - Cox Town
-      - Cooke Town
-      - Ulsoor (Halasuru)
-      - MG Road
-      - Brigade Road
-      - Richmond Town
-      - Koramangala 1st-8th Block
-      - HSR Sectors 1-7
-      - Domlur
-      - Airport Road
-      - Hebbal Kempapura
-      - Yeshwanthpur
-      - Tumkur Road
-      - Kanakapura Road
-      - Mysore Road
-      - Uttarahalli
-      - JP Nagar Phases 1-9
-      - Banerghatta Road
-      - Arekere
-      - Hulimavu
-      - Basaveshwaranagar
-      - Seshadripuram
-      - Sanjaynagar
-      - Vidyaranyapura
-      - Sahakar Nagar
-      - New BEL Road
-      - RMV 2nd Stage
-      - Dollars Colony
-      - Nandi Hills vicinity
-  statewide:
-    states_and_capitals:
-      - Karnataka: Bengaluru
-      - Maharashtra: Mumbai
-      - Delhi: New Delhi
-      - Tamil Nadu: Chennai
-      - Telangana: Hyderabad
-      - Andhra Pradesh: Amaravati
-      - Kerala: Thiruvananthapuram
-      - Goa: Panaji
-      - Gujarat: Gandhinagar
-      - Rajasthan: Jaipur
-      - Uttar Pradesh: Lucknow
-      - Madhya Pradesh: Bhopal
-      - Bihar: Patna
-      - West Bengal: Kolkata
-      - Odisha: Bhubaneswar
-      - Chhattisgarh: Raipur
-      - Jharkhand: Ranchi
-      - Uttarakhand: Dehradun
-      - Himachal Pradesh: Shimla
-      - Punjab: Chandigarh
-      - Haryana: Chandigarh
-      - Jammu and Kashmir: Srinagar/Jammu
-      - Ladakh: Leh
-      - Sikkim: Gangtok
-      - Assam: Dispur
-      - Meghalaya: Shillong
-      - Manipur: Imphal
-      - Mizoram: Aizawl
-      - Nagaland: Kohima
-      - Tripura: Agartala
-      - Arunachal Pradesh: Itanagar
-      - Andaman and Nicobar Islands: Port Blair
-      - Puducherry: Puducherry
-      - Chandigarh: Chandigarh
-      - Dadra and Nagar Haveli and Daman and Diu: Daman
-      - Lakshadweep: Kavaratti
-  smart_cities_mission:
-    # Selected list; full list extended below in cities_100k
-    cities:
-      - Ahmedabad
-      - Surat
-      - Vadodara
-      - Rajkot
-      - Mumbai
-      - Pune
-      - Thane
-      - Navi Mumbai
-      - Nagpur
-      - Nashik
-      - Aurangabad
-      - Indore
-      - Bhopal
-      - Gwalior
-      - Jabalpur
-      - Jaipur
-      - Udaipur
-      - Kota
-      - Ajmer
-      - Delhi
-      - New Delhi Municipal Council
-      - Noida
-      - Ghaziabad
-      - Lucknow
-      - Kanpur
-      - Varanasi
-      - Prayagraj
-      - Agra
-      - Faridabad
-      - Gurgaon
-      - Chandigarh
-      - Mohali
-      - Amritsar
-      - Ludhiana
-      - Jalandhar
-      - Panaji
-      - Vasco da Gama
-      - Bengaluru
-      - Mysuru
-      - Mangaluru
-      - Hubballi-Dharwad
-      - Belagavi
-      - Davanagere
-      - Tumakuru
-      - Shivamogga
-      - Chennai
-      - Coimbatore
-      - Madurai
-      - Tiruchirappalli
-      - Salem
-      - Erode
-      - Hyderabad
-      - Warangal
-      - Karimnagar
-      - Nizamabad
-      - Vijayawada
-      - Visakhapatnam
-      - Guntur
-      - Nellore
-      - Bhubaneswar
-      - Rourkela
-      - Cuttack
-      - Sambalpur
-      - Kolkata
-      - New Town Kolkata
-      - Howrah
-      - Durgapur
-      - Siliguri
-      - Guwahati
-      - Gangtok
-      - Aizawl
-      - Imphal
-      - Kohima
-      - Agartala
-      - Shillong
-      - Itanagar
-  cities_100k_plus:
-    # Representative top 300+ Indian cities/towns >100k population (abbreviated here for brevity)
-    examples:
-      - Bengaluru
-      - Mumbai
-      - Delhi
-      - Kolkata
-      - Chennai
-      - Hyderabad
-      - Pune
-      - Ahmedabad
-      - Surat
-      - Jaipur
-      - Kanpur
-      - Lucknow
-      - Nagpur
-      - Indore
-      - Thane
-      - Bhopal
-      - Visakhapatnam
-      - Patna
-      - Vadodara
-      - Ghaziabad
-      - Ludhiana
-      - Agra
-      - Nashik
-      - Faridabad
-      - Meerut
-      - Rajkot
-      - Kalyan-Dombivli
-      - Vasai-Virar
-      - Varanasi
-      - Srinagar
-      - Aurangabad
-      - Dhanbad
-      - Amritsar
-      - Navi Mumbai
-      - Allahabad (Prayagraj)
-      - Howrah
-      - Ranchi
-      - Gwalior
-      - Jabalpur
-      - Coimbatore
-      - Vijayawada
-      - Jodhpur
-      - Madurai
-      - Raipur
-      - Kota
-      - Guwahati
-      - Chandigarh
-      - Solapur
-      - Hubballi-Dharwad
-      - Bareilly
-      - Moradabad
-      - Mysuru
-      - Tiruchirappalli
-      - Tiruppur
-      - Salem
-      - Warangal
-      - Guntur
-      - Bikaner
-      - Thrissur
-      - Alappuzha
-      - Kollam
-      - Kozhikode
-      - Kochi
-      - Dehradun
-      - Jammu
-      - Ujjain
-      - Bhilai
-      - Durg
-      - Panipat
-      - Rohtak
-      - Karnal
-      - Hisar
-      - Sonipat
-      - Amravati
-      - Akola
-      - Satara
-      - Sangli-Miraj-Kupwad
-      - Kolhapur
-      - Ratnagiri
-      - Belagavi
-      - Ballari
-      - Davanagere
-      - Tumakuru
-      - Shivamogga
-      - Hassan
-      - Mandya
-      - Chikkamagaluru
-      - Hosur
-      - Vellore
-      - Erode
-      - Tirunelveli
-      - Thoothukudi
-      - Nagercoil
-      - Puducherry
-      - Bhubaneswar
-      - Cuttack
-      - Rourkela
-      - Sambalpur
-      - Siliguri
-      - Durgapur
-      - Asansol
-      - Haldia
-      - Jalpaiguri
-      - Guwahati
-      - Dibrugarh
-      - Tinsukia
-      - Dimapur
-      - Imphal
-      - Aizawl
-      - Agartala
-      - Shillong
-      - Kohima
-      - Itanagar
-      - Port Blair
-  keywords_templates:
-    - "Vastu consultant in {city}"
-    - "Best Vastu consultant in {city}"
-    - "Scientific Vastu in {city}"
-    - "Vastu consultation near me in {city}"
-    - "Vastu for home/office in {city}"
+  seo:
+    hyperlocal:
+      bangalore_localities:
+        - Koramangala
+        - HSR Layout
+        - Indiranagar
+        - Jayanagar
+        - JP Nagar
+        - BTM Layout
+        - Whitefield
+        - Marathahalli
+        - Bellandur
+        - Sarjapur Road
+        - Electronic City
+        - Hebbal
+        - Yelahanka
+        - RT Nagar
+        - Malleshwaram
+        - Rajajinagar
+        - Basavanagudi
+        - Banashankari
+        - Nagarbhavi
+        - Kengeri
+        - Vijayanagar
+        - Magadi Road
+        - Peenya
+        - Hennur
+        - Kamanahalli
+        - Horamavu
+        - KR Puram
+        - Mahadevapura
+        - Brookefield
+        - Kundalahalli
+        - Kadugodi
+        - Hoodi
+        - ORR (Outer Ring Road)
+        - Devanahalli
+        - Bagalur
+        - Thanisandra
+        - Manyata Tech Park
+        - Nagawara
+        - HBR Layout
+        - Fraser Town
+        - Cox Town
+        - Cooke Town
+        - Ulsoor (Halasuru)
+        - MG Road
+        - Brigade Road
+        - Richmond Town
+        - Domlur
+        - Airport Road
+        - Yeshwanthpur
+        - Tumkur Road
+        - Kanakapura Road
+        - Mysore Road
+        - Uttarahalli
+        - Banerghatta Road
+        - Arekere
+        - Hulimavu
+        - Basaveshwaranagar
+        - Seshadripuram
+        - Sanjaynagar
+        - Vidyaranyapura
+        - Sahakar Nagar
+        - New BEL Road
+        - RMV 2nd Stage
+        - Dollars Colony
+        - Nandi Hills vicinity
+    statewide:
+      states_and_capitals:
+        - Karnataka: Bengaluru
+        - Maharashtra: Mumbai
+        - Delhi: New Delhi
+        - Tamil Nadu: Chennai
+        - Telangana: Hyderabad
+        - Andhra Pradesh: Amaravati
+        - Kerala: Thiruvananthapuram
+        - Goa: Panaji
+        - Gujarat: Gandhinagar
+        - Rajasthan: Jaipur
+        - Uttar Pradesh: Lucknow
+        - Madhya Pradesh: Bhopal
+        - Bihar: Patna
+        - West Bengal: Kolkata
+        - Odisha: Bhubaneswar
+        - Chhattisgarh: Raipur
+        - Jharkhand: Ranchi
+        - Uttarakhand: Dehradun
+        - Himachal Pradesh: Shimla
+        - Punjab: Chandigarh
+        - Haryana: Chandigarh
+        - Jammu and Kashmir: Srinagar/Jammu
+        - Ladakh: Leh
+        - Sikkim: Gangtok
+        - Assam: Dispur
+        - Meghalaya: Shillong
+        - Manipur: Imphal
+        - Mizoram: Aizawl
+        - Nagaland: Kohima
+        - Tripura: Agartala
+        - Arunachal Pradesh: Itanagar
+        - Andaman and Nicobar Islands: Port Blair
+        - Puducherry: Puducherry
+        - Chandigarh: Chandigarh
+        - Dadra and Nagar Haveli and Daman and Diu: Daman
+        - Lakshadweep: Kavaratti
+    smart_cities_mission:
+      cities:
+        - Ahmedabad
+        - Surat
+        - Vadodara
+        - Rajkot
+        - Mumbai
+        - Pune
+        - Thane
+        - Navi Mumbai
+        - Nagpur
+        - Nashik
+        - Aurangabad
+        - Indore
+        - Bhopal
+        - Gwalior
+        - Jabalpur
+        - Jaipur
+        - Udaipur
+        - Kota
+        - Ajmer
+        - Delhi
+        - New Delhi Municipal Council
+        - Noida
+        - Ghaziabad
+        - Lucknow
+        - Kanpur
+        - Varanasi
+        - Prayagraj
+        - Agra
+        - Faridabad
+        - Gurgaon
+        - Chandigarh
+        - Mohali
+        - Amritsar
+        - Ludhiana
+        - Jalandhar
+        - Panaji
+        - Vasco da Gama
+        - Bengaluru
+        - Mysuru
+        - Mangaluru
+        - Hubballi-Dharwad
+        - Belagavi
+        - Davanagere
+        - Tumakuru
+        - Shivamogga
+        - Chennai
+        - Coimbatore
+        - Madurai
+        - Tiruchirappalli
+        - Salem
+        - Erode
+        - Hyderabad
+        - Warangal
+        - Karimnagar
+        - Nizamabad
+        - Vijayawada
+        - Visakhapatnam
+        - Guntur
+        - Nellore
+        - Bhubaneswar
+        - Rourkela
+        - Cuttack
+        - Sambalpur
+        - Kolkata
+        - New Town Kolkata
+        - Howrah
+        - Durgapur
+        - Siliguri
+        - Guwahati
+        - Gangtok
+        - Aizawl
+        - Imphal
+        - Kohima
+        - Agartala
+        - Shillong
+        - Itanagar
+    cities_100k_plus:
+      examples:
+        - Bengaluru
+        - Mumbai
+        - Delhi
+        - Kolkata
+        - Chennai
+        - Hyderabad
+        - Pune
+        - Ahmedabad
+        - Surat
+        - Jaipur
+        - Kanpur
+        - Lucknow
+        - Nagpur
+        - Indore
+        - Thane
+        - Bhopal
+        - Visakhapatnam
+        - Patna
+        - Vadodara
+        - Ghaziabad
+        - Ludhiana
+        - Agra
+        - Nashik
+        - Faridabad
+        - Meerut
+        - Rajkot
+        - Kalyan-Dombivli
+        - Vasai-Virar
+        - Varanasi
+        - Srinagar
+        - Aurangabad
+        - Dhanbad
+        - Amritsar
+        - Navi Mumbai
+        - Allahabad (Prayagraj)
+        - Howrah
+        - Ranchi
+        - Gwalior
+        - Jabalpur
+        - Coimbatore
+        - Vijayawada
+        - Jodhpur
+        - Madurai
+        - Raipur
+        - Kota
+        - Guwahati
+        - Chandigarh
+        - Solapur
+        - Hubballi-Dharwad
+        - Bareilly
+        - Moradabad
+        - Mysuru
+        - Tiruchirappalli
+        - Tiruppur
+        - Salem
+        - Warangal
+        - Guntur
+        - Bikaner
+        - Thrissur
+        - Alappuzha
+        - Kollam
+        - Kozhikode
+        - Kochi
+        - Dehradun
+        - Jammu
+        - Ujjain
+        - Bhilai
+        - Durg
+        - Panipat
+        - Rohtak
+        - Karnal
+        - Hisar
+        - Sonipat
+        - Amravati
+        - Akola
+        - Satara
+        - Sangli-Miraj-Kupwad
+        - Kolhapur
+        - Ratnagiri
+        - Belagavi
+        - Ballari
+        - Davanagere
+        - Tumakuru
+        - Shivamogga
+        - Hassan
+        - Mandya
+        - Chikkamagaluru
+        - Hosur
+        - Vellore
+        - Erode
+        - Tirunelveli
+        - Thoothukudi
+        - Nagercoil
+        - Puducherry
+        - Bhubaneswar
+        - Cuttack
+        - Rourkela
+        - Sambalpur
+        - Siliguri
+        - Durgapur
+        - Asansol
+        - Haldia
+        - Jalpaiguri
+        - Guwahati
+        - Dibrugarh
+        - Tinsukia
+        - Dimapur
+        - Imphal
+        - Aizawl
+        - Agartala
+        - Shillong
+        - Kohima
+        - Itanagar
+        - Port Blair
+    keywords_templates:
+      - "Vastu consultant in {city}"
+      - "Best Vastu consultant in {city}"
+      - "Scientific Vastu in {city}"
+      - "Vastu consultation near me in {city}"
+      - "Vastu for home/office in {city}"
   internal_linking:
     crosslink_targets:
       - slug: scientific-tools-methodology
@@ -364,113 +356,108 @@ seo:
       - slug: sector-case-studies
       - slug: research-advances-building-biology
     usage_notes: "Use hydrated lists to inject into blog footers, FAQ, and meta tags"
-content_blocks:
-  main_blog_footer:
-    title: "Areas We Serve"
-    content_type: list
-    sources: [seo.hyperlocal.bangalore_localities, seo.cities_100k_plus.examples]
-  faq_locations:
-    title: "Do you serve my city?"
-    content_type: paragraph
-    template: "Yes. We serve all major Indian cities and Bangalore localities including {some_examples}. For others, virtual consults are available."
+  content_blocks:
+    main_blog_footer:
+      title: "Areas We Serve"
+      content_type: list
+      sources: [seo.hyperlocal.bangalore_localities, seo.cities_100k_plus.examples]
+    faq_locations:
+      title: "Do you serve my city?"
+      content_type: paragraph
+      template: "Yes. We serve all major Indian cities and Bangalore localities including {some_examples}. For others, virtual consults are available."
   metadata_seo:
     title: "SEO Entities"
     meta_keywords_sources: [seo.hyperlocal.bangalore_localities, seo.statewide.states_and_capitals, seo.smart_cities_mission.cities, seo.cities_100k_plus.examples, seo.keywords_templates]
-blog_outlines:
-  - slug: scientific-tools-methodology
-    title: "How We Use Scientific Tools in Vastu"
-    objective: "Explain measurable, non‑superstitious diagnostics"
-    audience: [homeowners, architects, business]
-    sections:
-      - intro: "Why diagnostics matter; reduce guesswork, improve repeatability"
-      - toolkit:
+  blog_outlines:
+    - slug: scientific-tools-methodology
+      title: "How We Use Scientific Tools in Vastu"
+      objective: "Explain measurable, non-superstitious diagnostics"
+      audience: [homeowners, architects, business]
+      sections:
+        - intro: "Why diagnostics matter; reduce guesswork, improve repeatability"
+        - toolkit:
           - lecher_antenna: "resonant lengths, material response"
-          - emf_scanners: "LF/HF checks near panels, Wi‑Fi, beds, desks"
+          - emf_scanners: "LF/HF checks near panels, Wi-Fi, beds, desks"
           - aura_scanner: "field mapping, stress zones"
           - radiesthesia: "corroborate underground lines/flows"
           - compass_angles: "true north, declination, degree placements"
           - lux_hygro: "light/air thresholds by room"
           - gis: "sun path/wind for seasonal planning"
-      - workflow: "observe → measure → correlate → trial → verify"
-      - safety_ethics: "no alarmism; data‑first"
-      - cta: "Book a scientific assessment"
-  - slug: remedies-explained
-    title: "Vastu Remedies Explained: Metals, Crystals, Harmonizers, Shields"
-    objective: "When to use objects vs layout/usage fixes"
-    sections:
-      - hierarchy: [function, orientation, elements, light_flow, objects, civil]
-      - metals_materials: [copper_brass, steel_iron, stone_earth]
-      - crystals_harmonizers: "micro‑flow vs myths; placebo awareness"
-      - emf_shielding: "measurement‑led, only when warranted"
-      - minimalism: "purpose‑driven, avoid sales bias"
-      - maintenance: "review cycles"
-      - cta: "Request remedy‑lite plan"
-  - slug: psychodynamic-vastu-radiesthesia
-    title: "Psychodynamic Vastu and Radiesthesia in the Modern Home"
-    sections:
-      - behavior_zones: "habits, sleep, focus"
-      - move_flip_tests: "bed/desk on/off lines"
-      - sensory_cues: "light/color for circadian support"
-      - micro_rituals: "entrance sequencing, clutter gradients"
-      - tracking: "sleep/mood/productivity diaries"
-      - cta: "2‑week micro‑intervention"
-  - slug: sector-case-studies
-    title: "Factory/Shop/School/Office Vastu: Case Studies & Solutions"
-    kpis: [productivity, sales, defects, engagement]
-    cases:
-      - office_hsr:
-          summary: "zoning, seating, NE openness; productivity/sales/attrition"
-      - boutique_jpnagar:
-          summary: "+18% in 2 months via SE cash, SW storage, NE light"
-      - factory_peenya:
-          summary: "flow mapping, SW weight; defect reduction"
-      - school_whitefield:
-          summary: "orientation, SW staff, NE library; engagement"
-      - retail_chain:
-          summary: "entrance pad degrees, display heat zones; dwell time"
-    cta: "Book multi‑site audit"
-  - slug: research-advances-building-biology
-    title: "Research Advances: Building Biology, Radiation Audits & Future Diagnostics"
-    sections:
-      - principles: [air, light, moisture, materials, EMF]
-      - radiation_audits: "LF/HF, sanctuaries, cabling"
-      - materials_tradeoffs: "shielding vs ventilation"
-      - sensors_logging: [CO2, VOC, lux, temp, RH]
-      - ai_gis_future: "non‑invasive mapping"
-      - ethics_reporting: true
-      - cta: "Request building‑biology‑aware plan"
-  - slug: advanced-faqs
-    title: "Expanded Advanced FAQs (Science/Process)"
-    faqs:
-      - q: "How do you validate that a remedy worked?"
-        a: "Pre/post metrics across health, comfort, and KPIs"
-      - q: "Magnetic declination stance?"
-        a: "Adjust locally; align to functional degrees"
-      - q: ">80% apartment compliance without demolition?"
-        a: "Yes; usage and placement optimizations"
-      - q: "Integrate Feng Shui?"
-        a: "Macro Vastu, micro‑flow Feng Shui"
-      - q: "Data needed for online consults?"
-        a: "Plan, photos/videos, occupants, problems, map pin"
-      - q: "EMF shields for everyone?"
-        a: "No; distance/routing/time first"
-      - q: "Result timelines?"
-        a: "2–6 weeks home; 4–12 weeks business"
-  - slug: product-remedy-info
-    title: "Optional Product/Remedy Catalog"
-    policy: "No hard‑selling"
-    categories: [metals_weights, light_mirrors, emf_hygiene, study_sleep_aids]
-    cta: "Minimalist, measurement‑led list"
-  - slug: new-case-studies
-    title: "New Case Studies"
-    highlights:
-      - hsr_startup: "150% growth in 2 quarters; zoning + daylight"
-      - indiranagar_apartment: ">60% migraine reduction"
-      - peenya_unit: "scrap down 14%"
-      - retail_kiosk: "dwell time +22%"
-metadata:
-  created_date: "2025-01-23"
-  last_updated: "2025-09-23"
-  version: "3.0"
-  format: "YAML"
-  encoding: "UTF-8"
+        - workflow: "observe -> measure -> correlate -> trial -> verify"
+        - safety_ethics: "no alarmism; data-first"
+        - cta: "Book a scientific assessment"
+    - slug: remedies-explained
+      title: "Vastu Remedies Explained: Metals, Crystals, Harmonizers, Shields"
+      objective: "When to use objects vs layout/usage fixes"
+      sections:
+        - hierarchy: [function, orientation, elements, light_flow, objects, civil]
+        - metals_materials: [copper_brass, steel_iron, stone_earth]
+        - crystals_harmonizers: "micro-flow vs myths; placebo awareness"
+        - emf_shielding: "measurement-led, only when warranted"
+        - minimalism: "purpose-driven, avoid sales bias"
+        - maintenance: "review cycles"
+        - cta: "Request remedy-lite plan"
+    - slug: psychodynamic-vastu-radiesthesia
+      title: "Psychodynamic Vastu and Radiesthesia in the Modern Home"
+      sections:
+        - behavior_zones: "habits, sleep, focus"
+        - move_flip_tests: "bed/desk on/off lines"
+        - sensory_cues: "light/color for circadian support"
+        - micro_rituals: "entrance sequencing, clutter gradients"
+        - tracking: "sleep/mood/productivity diaries"
+        - cta: "2-week micro-intervention"
+    - slug: sector-case-studies
+      title: "Factory/Shop/School/Office Vastu: Case Studies & Solutions"
+      kpis: [productivity, sales, defects, engagement]
+      cases:
+        - office_hsr: summary: "zoning, seating, NE openness; productivity/sales/attrition"
+        - boutique_jpnagar: summary: "+18% in 2 months via SE cash, SW storage, NE light"
+        - factory_peenya: summary: "flow mapping, SW weight; defect reduction"
+        - school_whitefield: summary: "orientation, SW staff, NE library; engagement"
+        - retail_chain: summary: "entrance pad degrees, display heat zones; dwell time"
+      cta: "Book multi-site audit"
+    - slug: research-advances-building-biology
+      title: "Research Advances: Building Biology, Radiation Audits & Future Diagnostics"
+      sections:
+        - principles: [air, light, moisture, materials, EMF]
+        - radiation_audits: "LF/HF, sanctuaries, cabling"
+        - materials_tradeoffs: "shielding vs ventilation"
+        - sensors_logging: [CO2, VOC, lux, temp, RH]
+        - ai_gis_future: "non-invasive mapping"
+        - ethics_reporting: true
+        - cta: "Request building-biology-aware plan"
+    - slug: advanced-faqs
+      title: "Expanded Advanced FAQs (Science/Process)"
+      faqs:
+        - q: "How do you validate that a remedy worked?"
+          a: "Pre/post metrics across health, comfort, and KPIs"
+        - q: "Magnetic declination stance?"
+          a: "Adjust locally; align to functional degrees"
+        - q: ">80% apartment compliance without demolition?"
+          a: "Yes; usage and placement optimizations"
+        - q: "Integrate Feng Shui?"
+          a: "Macro Vastu, micro-flow Feng Shui"
+        - q: "Data needed for online consults?"
+          a: "Plan, photos/videos, occupants, problems, map pin"
+        - q: "EMF shields for everyone?"
+          a: "No; distance/routing/time first"
+        - q: "Result timelines?"
+          a: "2-6 weeks home; 4-12 weeks business"
+    - slug: product-remedy-info
+      title: "Optional Product/Remedy Catalog"
+      policy: "No hard-selling"
+      categories: [metals_weights, light_mirrors, emf_hygiene, study_sleep_aids]
+      cta: "Minimalist, measurement-led list"
+    - slug: new-case-studies
+      title: "New Case Studies"
+      highlights:
+        - hsr_startup: "150% growth in 2 quarters; zoning + daylight"
+        - indiranagar_apartment: ">60% migraine reduction"
+        - peenya_unit: "scrap down 14%"
+        - retail_kiosk: "dwell time +22%"
+  metadata:
+    created_date: "2025-01-23"
+    last_updated: "2026-04-14"
+    version: "3.1"
+    format: "YAML"
+    encoding: "UTF-8"
