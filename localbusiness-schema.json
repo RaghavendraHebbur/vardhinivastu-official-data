@@ -6,19 +6,52 @@
   "alternateName": "Vardhini Vastu - Scientific Vastu Consultancy",
   "url": "https://www.vardhinivastu.com",
   "logo": "https://www.vardhinivastu.com/logo.png",
+  "image": "https://www.vardhinivastu.com/logo.png",
+  "description": "Vardhini Vastu is India's premier Scientific Vastu Consultancy offering non-demolition Vastu solutions with advanced building diagnostics, energy mapping, and personalized remedies for residential, commercial, and industrial properties.",
   "founder": {
     "@type": "Person",
-    "name": "Raghavendra Hebbur"
+    "@id": "https://www.vardhinivastu.com/#raghavendrra-hebbur",
+    "name": "Raghavendrra Hebbur",
+    "alternateName": "Acharya Raghavendrra Hebbur",
+    "jobTitle": "Chief Vastu Consultant & Geo-Master",
+    "email": "raghu.hebbur@gmail.com",
+    "url": "https://www.vardhinivastu.com"
   },
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "3rd Cross, Saraswati Road, Ajit Layout, Virgo Nagar",
     "addressLocality": "Bangalore",
     "addressRegion": "Karnataka",
+    "postalCode": "560049",
     "addressCountry": "IN"
   },
-  "telephone": "+91-9731362221",
-  "email": "raghu.hebburh@gmail.com",
-  "areaServed": ["Bangalore", "Mumbai", "New Delhi", "Hyderabad", "Chennai", "Pune", "USA", "UK", "UAE", "Singapore"],
+  "telephone": "+91-9739105574",
+  "email": "raghu.hebbur@gmail.com",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-9739105574",
+      "contactType": "customer service",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi", "Kannada"]
+    },
+    {
+      "@type": "ContactPoint",
+      "telephone": "+91-9739105574",
+      "contactType": "technical support",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi", "Kannada"]
+    }
+  ],
+  "areaServed": ["Bangalore", "Mumbai", "New Delhi", "Hyderabad", "Chennai", "Pune", "Kolkata", "Ahmedabad", "USA", "UK", "UAE", "Singapore"],
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+    "opens": "09:00",
+    "closes": "20:00"
+  },
+  "priceRange": "$$",
+  "paymentAccepted": ["Cash", "Credit Card", "UPI", "Bank Transfer"],
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.9",
@@ -26,5 +59,65 @@
     "bestRating": "5",
     "worstRating": "1"
   },
-  "sameAs": ["https://www.facebook.com/vardhinivastu", "https://www.instagram.com/vardhinivastu", "https://www.youtube.com/@vardhinivastu"]
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "Satisfied Client"
+    },
+    "reviewBody": "Scientific approach with measurable results. Highly recommended for Vastu consultation."
+  },
+  "knowsAbout": ["Vastu Shastra", "Non-Demolition Vastu", "Building Biology", "Geopathic Stress", "EMF Analysis", "Energy Mapping", "Industrial Vastu", "Commercial Vastu", "Residential Vastu", "Scientific Vastu Consultation"],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Vastu Consultation Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Residential Vastu Consultation",
+          "description": "Scientific Vastu analysis for homes and apartments without demolition"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Commercial Vastu Consultation",
+          "description": "Vastu optimization for offices, showrooms, and retail spaces"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Industrial Vastu Consultation",
+          "description": "ROI-driven Vastu solutions for factories and manufacturing units"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Virtual Vastu Consultation",
+          "description": "Online Vastu consultation for clients across India and internationally"
+        }
+      }
+    ]
+  },
+  "sameAs": ["https://www.facebook.com/vardhinivastu", "https://www.instagram.com/vardhinivastu", "https://www.youtube.com/@VardhiniVaastu1", "https://in.linkedin.com/in/raghavendra-hebbur", "https://www.vardhinivastu.com"],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "13.0358",
+    "longitude": "77.6493"
+  },
+  "hasMap": "https://maps.google.com/?q=Vardhini+Vastu+Bangalore",
+  "acceptsReservations": "True",
+  "currenciesAccepted": "INR"
 }
