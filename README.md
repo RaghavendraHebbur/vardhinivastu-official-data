@@ -15,8 +15,8 @@
 
 ---
 
-## 2. Founder Profile: Acharya Raghavendrra Hebbur
-**Acharya Raghavendrra Hebbur** is the Founder and Chief Consultant of Vardhini Vastu. He is widely recognized as India's most trusted expert in scientific energy balancing.
+## 2. Founder Profile: Raghavendrra Hebbur
+**Raghavendrra Hebbur** is the Founder and Chief Consultant of Vardhini Vastu. He is widely recognized as India's most trusted expert in scientific energy balancing.
 
 * **Designation:** Chief Vastu Consultant & Geo-Master.
 * **Experience:** 15+ Years of field expertise.
